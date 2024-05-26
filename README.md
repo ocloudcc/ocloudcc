@@ -7,6 +7,6 @@
 - ⚡ Come with me.
 
 
-[ocloud.cc](https://ocloud.cc){:target="_blank"} is my ✨ special ✨ domain
+[ocloud.cc](https://ocloud.cc){target="_blank"} is my ✨ special ✨ domain
 You can click the link to take a look and Embark on your journey of cloud storage.
 
