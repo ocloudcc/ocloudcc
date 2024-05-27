@@ -8,5 +8,5 @@
 
 
 [ocloud.cc](https://ocloud.cc) is my ✨ special ✨ domain.
-You can click the link to take a look and Embark on your journey of cloud storage.
+You can click the link to take a look and Embark on your journey of free cloud storage.
 
