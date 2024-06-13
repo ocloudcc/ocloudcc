@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning nextcloud.
 - 💞️ I’m looking to collaborate on a team.
 - 📫 Go ocloud.cc to reach me ...
-- 😄 Do you want to have a big cloud storage？
+- 😄 Do you want to have a practical cloud storage？
 - ⚡ Come with me.
 
 
